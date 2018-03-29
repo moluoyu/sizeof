@@ -33,6 +33,12 @@ int main() {
     printf("%d\n",sizeof(s));
     printf("%d\n", sizeof(s1));
     printf("%d\n", sizeof(s2));
+    /*output:
+     * 8
+     *24
+     *24
+     * 16
+     */
 
 
     return 0;
